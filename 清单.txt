@@ -1,1 +1,2 @@
  git淘宝镜像下载地址 https://npm.taobao.org/mirrors/git-for-windows/
+vscode https://az764295.vo.msecnd.net/stable/dfd34e8260c270da74b5c2d86d61aee4b6d56977/VSCodeUserSetup-x64-1.66.2.exe
